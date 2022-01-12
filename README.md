@@ -1,5 +1,5 @@
-# u2d
-Uptodown Scraper (Project is still in alpha!)
+# u2d (Uptodown Scraper) 
+Project is still in Alpha!
 
 Scrape download links from Uptodown. Returns them as pretty-printed JSON.
 
@@ -9,9 +9,9 @@ Scrape download links from Uptodown. Returns them as pretty-printed JSON.
 ```
 u2d <link>
 ```
-Links need to have this format : https://spotify.en.uptodown.com/windows/. The Link needs to point to the homepage.
+Links need to have this format: `https://spotify.en.uptodown.com/windows/`. The Link needs to point to the homepage.
 
-Invalid links like this : https://spotify.en.uptodown.com/windows/download 
+Invalid links like this: `https://spotify.en.uptodown.com/windows/download` 
 
 return an empty JSON. This functionality would be swapped for a more verbose and detailed error sometime soon.
 
