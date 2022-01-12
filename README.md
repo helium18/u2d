@@ -19,7 +19,7 @@ return an empty JSON. This functionality would be swapped for a more verbose and
 Head to the [releases](https://github.com/helium18/u2d/releases) page and grab the binaries or [build it!](#Building)
 
 ## Building
-Install [Rust](https://www.rust-lang.org/tools/install). Then execute then follow these instructions.
+Install [Rust](https://www.rust-lang.org/tools/install). Then execute the following.
 
 ```
 git clone https://github.com/helium18/u2d.git
