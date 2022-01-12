@@ -1,8 +1,6 @@
 # u2d
 Uptodown Scraper (Project is still in alpha!)
 
----
-
 Scrape download links from Uptodown. Returns them as pretty-printed JSON.
 
 ![](https://i.imgur.com/LXb0vJ0.gif)
